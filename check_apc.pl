@@ -47,9 +47,6 @@ my $oid_upsBasicIdentModel              = ".1.3.6.1.4.1.318.1.1.1.1.1.1.0";     
 my $oid_upsAdvIdentSerialNumber         = ".1.3.6.1.4.1.318.1.1.1.1.2.3.0";     # DISPLAYSTRING
 my $oid_upsBasicBatteryStatus           = ".1.3.6.1.4.1.318.1.1.1.2.1.1.0";     # INTEGER {unknown(1),batteryNormal(2),batteryLow(3)}
 my $oid_upsAdvBatteryCapacity           = ".1.3.6.1.4.1.318.1.1.1.2.2.1.0";     # GAUGE
-
-
-
 my $oid_manufacturer = "1.3.6.1.4.1.534.1.1.1.0";
 
 # Nagios exit codes

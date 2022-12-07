@@ -9,8 +9,6 @@ oid_manufacturer = "1.3.6.1.4.1.534.1.1.1.0"
 
 
 class CheckAPC:
-    oid_manufacturer = "1.3.6.1.4.1.534.1.1.1.0"
-
 
     help = """ Usage:
             -H  Address of hostname of UPS (required)
